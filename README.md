@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Helloworld WAR
 no changes
 ### A example Java WAR project / template project
@@ -47,3 +48,6 @@ or it won't be included in the war file when you build it).
 #### LICENSE
 Licensed under [Eclipse Public License](http://www.eclipse.org/legal/epl-v10.html).
 
+=======
+# wepp-demo
+>>>>>>> e43ecc5621dd0734538cf2f9ecebfae9371d3149
